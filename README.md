@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on Projects involving frontend development 
 
-- 💬 Talk to me about React, JavaScript, Freelancing Opportunites, Cybersecurity, Web3, Open Source... 
+- 💬 Talk to me about React, JavaScript, Freelancing Opportunites, Software Engineering, Cybersecurity, Web3, Open Source... 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/https://github.com/egba001?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
@@ -47,10 +47,6 @@
 <a href = 'https://www.github.com/https://github.com/egba001'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
-<h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=emekason1=True"/>
-</a>
 <br>
 
 
