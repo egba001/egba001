@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Frontend projects involving HTML, CSS, Javascript, React and other Frontend technologies
 
-- 🌱 I’m currently learning Frontend Development 
+- 🌱 I’m currently learning Solidity
 
 - 👯 I’m looking to collaborate on Projects involving frontend development 
 
