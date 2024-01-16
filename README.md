@@ -7,13 +7,13 @@
 
 <h2> About Me </h2>
 
-- 🔭 I’m currently working on Frontend projects involving HTML, CSS, Javascript, React and other Frontend technologies
+- 🔭 I’m currently working on Frontend projects involving React, Next JS and other Frontend technologies
 
 - 🌱 I’m currently learning Solidity
 
 - 👯 I’m looking to collaborate on Projects involving frontend development 
 
-- 💬 Talk to me about React, JavaScript, Freelancing Opportunites, Software Engineering, Cybersecurity, Web3, Open Source... 
+- 💬 Talk to me about React, JavaScript, Freelancing Opportunites, Software Engineering, Web3...
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/https://github.com/egba001?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
