@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on Frontend projects involving React, Next JS and other Frontend technologies
 
-- 🌱 I’m currently learning Solidity
-
 - 👯 I’m looking to collaborate on Projects involving frontend development 
 
 - 💬 Talk to me about React, JavaScript, Freelancing Opportunites, Software Engineering, Web3...
